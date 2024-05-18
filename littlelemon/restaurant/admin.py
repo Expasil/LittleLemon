@@ -3,5 +3,5 @@ from .models import *
 # Register your models here.
 
 
-admin.site.register(booking)
-admin.site.register(menu)
+admin.site.register(Booking)
+admin.site.register(Menu)
